@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking_Maze/Backtracking_Maze.iml" filepath="$PROJECT_DIR$/Backtracking_Maze/Backtracking_Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble/Bubble.iml" filepath="$PROJECT_DIR$/Bubble/Bubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cyclic Problems/Cyclic Problems.iml" filepath="$PROJECT_DIR$/Cyclic Problems/Cyclic Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insertion/Insertion.iml" filepath="$PROJECT_DIR$/Insertion/Insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math1/Math1.iml" filepath="$PROJECT_DIR$/Math1/Math1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeRecursion/MergeRecursion.iml" filepath="$PROJECT_DIR$/MergeRecursion/MergeRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permutation/Permutation.iml" filepath="$PROJECT_DIR$/Permutation/Permutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion1/Recursion1.iml" filepath="$PROJECT_DIR$/Recursion1/Recursion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionArray/RecursionArray.iml" filepath="$PROJECT_DIR$/RecursionArray/RecursionArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionPattern/RecursionPattern.iml" filepath="$PROJECT_DIR$/RecursionPattern/RecursionPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionQues/RecursionQues.iml" filepath="$PROJECT_DIR$/RecursionQues/RecursionQues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionString/RecursionString.iml" filepath="$PROJECT_DIR$/RecursionString/RecursionString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selection/Selection.iml" filepath="$PROJECT_DIR$/Selection/Selection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String String Builder/String String Builder.iml" filepath="$PROJECT_DIR$/String String Builder/String String Builder.iml" />
+    </modules>
+  </component>
+</project>
